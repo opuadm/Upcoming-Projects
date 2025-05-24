@@ -1,2 +1,2 @@
-# Upcoming-Projects
-This is the repo which is a list of projects that are currently WIP and not public yet but that will be released
+# Upcoming Projects List
+This is my repo where you will find a list of projects that i am working on which aren't public yet.
